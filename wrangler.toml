@@ -1,3 +1,5 @@
 main = "./src/index.ts"
 name = "autodiscover"
 compatibility_date = "2025-05-07"
+[vars]
+DOMAIN = "sparkspace.huaweicloud.com"
