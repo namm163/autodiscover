@@ -18,7 +18,7 @@ export default {
         <LoginName></LoginName>
         <SPA>off</SPA>
         <SSL>on</SSL>
-        <AuthRequired>on</AuthRequired>
+        <AuthRequired>off</AuthRequired>
       </Protocol>
       <Protocol>
         <Type>POP3</Type>
@@ -28,7 +28,7 @@ export default {
         <LoginName></LoginName>
         <SPA>off</SPA>
         <SSL>on</SSL>
-        <AuthRequired>on</AuthRequired>
+        <AuthRequired>off</AuthRequired>
       </Protocol>
       <Protocol>
         <Type>SMTP</Type>
@@ -38,7 +38,7 @@ export default {
         <LoginName></LoginName>
         <SPA>off</SPA>
         <Encryption>SSL</Encryption>
-        <AuthRequired>on</AuthRequired>
+        <AuthRequired>off</AuthRequired>
         <UsePOPAuth>off</UsePOPAuth>
         <SMTPLast>off</SMTPLast>
       </Protocol>
