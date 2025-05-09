@@ -15,7 +15,7 @@ export default {
         <Server>imap.sparkspace.huaweicloud.com</Server>
         <Port>993</Port>
         <DomainRequired>off</DomainRequired>
-        <LoginName></LoginName>
+        <LoginName>bob@197955.xyz</LoginName>
         <SPA>off</SPA>
         <SSL>on</SSL>
         <AuthRequired>off</AuthRequired>
@@ -25,7 +25,7 @@ export default {
         <Server>pop.sparkspace.huaweicloud.com</Server>
         <Port>995</Port>
         <DomainRequired>off</DomainRequired>
-        <LoginName></LoginName>
+        <LoginName>bob@197955.xyz</LoginName>
         <SPA>off</SPA>
         <SSL>on</SSL>
         <AuthRequired>off</AuthRequired>
@@ -35,7 +35,7 @@ export default {
         <Server>smtp.sparkspace.huaweicloud.com</Server>
         <Port>465</Port>
         <DomainRequired>off</DomainRequired>
-        <LoginName></LoginName>
+        <LoginName>bob@197955.xyz</LoginName>
         <SPA>off</SPA>
         <SSL>on</SSL>
         <AuthRequired>off</AuthRequired>
