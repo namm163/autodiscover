@@ -37,10 +37,8 @@ export default {
         <DomainRequired>off</DomainRequired>
         <LoginName></LoginName>
         <SPA>off</SPA>
-        <Encryption>SSL</Encryption>
+        <SSL>on</SSL>
         <AuthRequired>off</AuthRequired>
-        <UsePOPAuth>off</UsePOPAuth>
-        <SMTPLast>off</SMTPLast>
       </Protocol>
     </Account>
   </Response>
