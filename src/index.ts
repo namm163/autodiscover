@@ -21,16 +21,6 @@ export default {
         <AuthRequired>off</AuthRequired>
       </Protocol>
       <Protocol>
-        <Type>POP3</Type>
-        <Server>pop.sparkspace.huaweicloud.com</Server>
-        <Port>995</Port>
-        <DomainRequired>off</DomainRequired>
-        <LoginName>bob@197955.xyz</LoginName>
-        <SPA>off</SPA>
-        <SSL>on</SSL>
-        <AuthRequired>off</AuthRequired>
-      </Protocol>
-      <Protocol>
         <Type>SMTP</Type>
         <Server>smtp.sparkspace.huaweicloud.com</Server>
         <Port>465</Port>
